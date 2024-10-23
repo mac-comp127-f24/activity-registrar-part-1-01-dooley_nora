@@ -112,6 +112,6 @@ class RegistrarTest {
     void clientsCannotModifyCourses() {
 
         sally.getCourses().add(comp127);
-     }
+    }
 
 }
